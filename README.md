@@ -5,3 +5,6 @@ With an infirmary within the university premises, a quick medical assistance can
 
 
 The key goal of this project is to computerize the details of doctors and patients which can be easily accessible when required. Digitalizing the data increases security, improves efficiency and emits problems such as duplicate records. This way we can integrate all the information about the patients , doctors and medicines into a single digital platform.
+Since it is an infirmary in university,I have integrated the student data base along with patients database.
+
+This Project is built in Java by using GUI Java Swing as front end and MYSQL database in the backend.
